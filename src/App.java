@@ -40,15 +40,5 @@ public class App {
          * respectively and computes their sum.
          */
 
-        /**
-         * Call the greaterValue method with integer parameters
-         */
-        System.out.println("The greater value between 45 and 100 is " + greaterValue(45,100));
-
-        /**
-         * Call the greaterValue method with double parameters
-         */
-        System.out.println("The greater value between 3.14 and 9.8 is " + greaterValue(3.14,9.8));
-
     }
 }
